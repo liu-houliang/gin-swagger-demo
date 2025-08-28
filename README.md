@@ -16,7 +16,7 @@ gin项目有多个版本，例如v1 v2，或者有子项目时，如果只生成
 ## 如何使用demo
 下载demo
 ```
-git clone https://github.com/lhl1115/gin-swagger-demo.git
+git clone https://github.com/liu-houliang/gin-swagger-demo.git
 cd gin-swagger-demo
 go mod tidy
 go run cmd/v1/main.go

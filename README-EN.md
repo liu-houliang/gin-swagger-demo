@@ -14,7 +14,7 @@ In a gin project with multiple versions, such as v1 and v2, or when there are su
 ## How to use the demo
 Download the demo:
 ```bash
-git clone https://github.com/lhl1115/gin-swagger-demo.git
+git clone https://github.com/liu-houliang/gin-swagger-demo.git
 cd gin-swagger-demo
 go mod tidy
 go run cmd/v1/main.go
